@@ -1,0 +1,13 @@
+{
+  "name": "test-sight",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.3.x",
+    "hjs": "*",
+    "node-uuid":"1.4.0"
+  }
+}

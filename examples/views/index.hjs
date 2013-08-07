@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <script src='/javascripts/one.js'></script>
+    <script src='/javascripts/two.js'></script>
+
+    <h1>{{ title }}</h1>
+    <p>Sight into {{ title }}</p>
+    <p><a href="dogs">Sub link here</a></p>
+  </body>
+</html>

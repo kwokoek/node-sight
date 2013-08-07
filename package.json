@@ -1,0 +1,26 @@
+{
+  "name": "sight",
+  "version": "0.1.0",
+  "description": "Provide vision into a running instance of node",
+  "main": "lib/sight",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "dependencies":{
+    "node-uuid":"1.4.x"
+  },
+  "keywords": [
+    "node",
+    "sight",
+    "diagnostic",
+    "view",
+    "runtime",
+    "log"
+  ],
+  "author": "kwokoek@gmail.com",
+  "license": "BSD"
+}

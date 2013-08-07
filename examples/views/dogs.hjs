@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <script src='/javascripts/two.js'></script>
+    <script src='/javascripts/three.js'></script>
+
+    <h1>{{ title }}</h1>
+    <p>Sight into {{ title }}</p>
+    <p>Dogs like to bark</p>
+    <p><a href='/'>HOME</a></p>
+  </body>
+</html>
